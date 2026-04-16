@@ -11,6 +11,9 @@
 <a href="https://linkedin.com/in/nilsreeh/">
   <img src="https://img.shields.io/badge/LinkedIn-nilsreeh-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
+<a href="https://dev.to/nilsr0711">
+  <img src="https://img.shields.io/badge/dev.to-nilsr0711-111111?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/>
+</a>
 <img src="https://komarev.com/ghpvc/?username=NilsR0711&style=for-the-badge&color=111111" alt="views"/>
 
 </div>
