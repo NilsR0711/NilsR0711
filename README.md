@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Nils&fontSize=52&fontAlignY=35&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Nils%20Reeh&fontSize=52&fontAlignY=35&animation=fadeIn" alt="header" />
 
 <a href="https://github.com/NilsR0711">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1100&center=true&vCenter=true&width=980&lines=M.Sc.+Digital+Business+Engineering+%40+HHZ+B%C3%B6blingen;Software+%C2%B7+Cloud+%C2%B7+AI+%C2%B7+Product;Building+at+the+intersection+of+tech+%26+business" alt="Typing SVG" />
