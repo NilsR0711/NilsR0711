@@ -100,10 +100,10 @@ Trained an ML model (SVM) on MFCC and spectral features extracted from ultrasoni
 <div align="center">
 
 <a href="https://github.com/openclaw/openclaw">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=openclaw&repo=openclaw&theme=transparent" alt="openclaw"/>
+  <img src="https://github-readme-nilsr0711.vercel.app/api/pin/?username=openclaw&repo=openclaw&theme=transparent" alt="openclaw"/>
 </a>
 <a href="https://github.com/gsd-build/gsd-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gsd-build&repo=gsd-2&theme=transparent" alt="gsd-2"/>
+  <img src="https://github-readme-nilsr0711.vercel.app/api/pin/?username=gsd-build&repo=gsd-2&theme=transparent" alt="gsd-2"/>
 </a>
 
 </div>
@@ -122,8 +122,8 @@ Trained an ML model (SVM) on MFCC and spectral features extracted from ultrasoni
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NilsR0711&show_icons=true&hide_title=true&rank_icon=github&theme=transparent" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NilsR0711&layout=compact&theme=transparent" alt="top langs"/>
+<img height="165" src="https://github-readme-nilsr0711.vercel.app/api?username=NilsR0711&show_icons=true&hide_title=true&rank_icon=github&theme=transparent" alt="stats"/>
+<img height="165" src="https://github-readme-nilsr0711.vercel.app/api/top-langs/?username=NilsR0711&layout=compact&theme=transparent" alt="top langs"/>
 
 <br/>
 
