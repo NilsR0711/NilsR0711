@@ -99,11 +99,14 @@ Trained an ML model (SVM) on MFCC and spectral features extracted from ultrasoni
 
 <div align="center">
 
+<a href="https://github.com/gsd-build/gsd-2">
+  <img src="https://github-readme-nilsr0711.vercel.app/api/pin/?username=gsd-build&repo=gsd-2&theme=transparent" alt="gsd-2"/>
+</a>
 <a href="https://github.com/openclaw/openclaw">
   <img src="https://github-readme-nilsr0711.vercel.app/api/pin/?username=openclaw&repo=openclaw&theme=transparent" alt="openclaw"/>
 </a>
-<a href="https://github.com/gsd-build/gsd-2">
-  <img src="https://github-readme-nilsr0711.vercel.app/api/pin/?username=gsd-build&repo=gsd-2&theme=transparent" alt="gsd-2"/>
+<a href="https://github.com/jaywcjlove/awesome-mac">
+  <img src="https://github-readme-nilsr0711.vercel.app/api/pin/?username=jaywcjlove&repo=awesome-mac&theme=transparent" alt="awesome-mac"/>
 </a>
 
 </div>
