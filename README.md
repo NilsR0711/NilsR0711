@@ -108,6 +108,9 @@ Trained an ML model (SVM) on MFCC and spectral features extracted from ultrasoni
 <a href="https://github.com/jaywcjlove/awesome-mac">
   <img src="https://github-readme-nilsr0711.vercel.app/api/pin/?username=jaywcjlove&repo=awesome-mac&theme=transparent" alt="awesome-mac"/>
 </a>
+<a href="https://github.com/NousResearch/hermes-agent">
+  <img src="https://github-readme-nilsr0711.vercel.app/api/pin/?username=NousResearch&repo=hermes-agent&theme=transparent" alt="hermes-agent"/>
+</a>
 
 </div>
 
